@@ -33,6 +33,7 @@ ul {
 
 footer img {
   width: 150px;
+  height: auto;
   margin: 20px auto;
   display: block;
 }
