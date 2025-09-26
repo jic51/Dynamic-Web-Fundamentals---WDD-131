@@ -26,8 +26,9 @@ main {
   padding: 20px;
 }
 
+/* list items */
 ul {
-  padding-left: 20px; /* Indent list items */
+  padding-left: 20px; 
 }
 
 footer img {
@@ -43,5 +44,5 @@ footer img {
 }
 
 .dark header h2 {
-  color: #7FDBFF; /* Picked a lighter blue from branding for better contrast */
+  color: #7FDBFF;
 }
